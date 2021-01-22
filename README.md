@@ -1,2 +1,3 @@
 # ADFNet
-Code for paper 'ATTENTION-BASED FUSION NETWORK FOR FEW-SHOT RGB-D SEMANTIC SEGMENTATION'
+Code for paper 'Attention-Based Fusion Network for Few-shot RGB-D Semantic Segmentation'
+The complete source code is being sorted out and will be released after the paper is accepted.
